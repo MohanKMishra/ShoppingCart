@@ -1,0 +1,121 @@
+[{
+        "id": 1,
+        "name": "Portronics SoundDrum POR871 10W Bluetooth Speaker",
+        "img": "https://rukminim1.flixcart.com/image/416/416/jyxaw7k0/speaker/mobile-tablet-speaker/z/u/w/portronics-por-871-sounddrum-bluetooth-4-2-stereo-speaker-original-imafjfxrrxfzkagb.jpeg?q=70",
+        "category": "Speaker",
+        "price": 1756,
+        "rating": 4.4,
+        "review": "3,051",
+        "color": "black"
+    },
+    {
+        "id": 2,
+        "name": "Zebronics FAME 2.0 channel 2.5 W Laptop/Desktop Speaker  (Black, 2.0 Channel)",
+        "img": "https://rukminim1.flixcart.com/image/416/416/k5vcya80pkrrdj/speaker/laptop-desktop-speaker/c/t/z/zebronics-fame-2-0-channel-original-imafkjb9pesgmyzw.jpeg?q=70",
+        "category": "Speaker",
+        "price": 512,
+        "rating": 4.1,
+        "review": "1,363",
+        "color": "black"
+    },
+    {
+        "id": 3,
+        "name": "KRISONS Polo Bluetooth Home Theatre  (Black, 7.1 Channel)",
+        "img": "https://rukminim1.flixcart.com/image/416/416/k5vcya80pkrrdj/speaker/home-audio-speaker/e/s/j/krisons-polo-original-imafgzd392gjuavh.jpeg?q=70",
+        "category": "Speaker",
+        "color": "Black && Blue",
+        "price": 2331,
+        "rating": 3.8,
+        "review": "391"
+    },
+    {
+        "id": 4,
+        "name": "JBL GO2 Portable Bluetooth Speaker  (Black, Mono Channel)",
+        "category": "Speaker",
+        "color": "black",
+        "review": "1,172",
+        "rating": 4.4,
+        "price": 2279,
+        "img": "https://rukminim1.flixcart.com/image/416/416/k3ncakw0pkrrdj/speaker/mobile-tablet-speaker/h/h/y/jbl-jblgo2blk-original-imafh4b8fadfgjzx.jpeg?q=70"
+    },
+    {
+        "id": 5,
+        "category": "Speaker",
+        "img": "https://rukminim1.flixcart.com/image/416/416/jidg9zk0/home-theatre-system/f/2/r/22-i-kall-original-imaf65x3erwuygff.jpeg?q=70",
+        "price": 2249,
+        "rating": 3.6,
+        "review": "919",
+        "color": "black",
+        "name": "I Kall IK-2222 Bluetooth Tower Speaker  (Black, 7.1 Channel)"
+    },
+    {
+        "id": 6,
+        "name": "U&i Virus Series Bluetooth Earphone - 6 Hours Battery Back Up Bluetooth Headset  (Black, In the Ear)",
+        "color": "black",
+        "review": "1,422",
+        "rating": 3.9,
+        "price": 399,
+        "img": "https://rukminim1.flixcart.com/image/416/416/kdvzwcw0-0/headphone/k/4/5/virus-series-bluetooth-earphone-6-hours-battery-back-up-u-i-original-imafuzzxnbfxzgkx.jpeg?q=70",
+        "category": "Headphone"
+    },
+    {
+        "id": 7,
+        "category": "Headphone",
+        "color": "Blue-Red",
+        "img": "https://rukminim1.flixcart.com/image/416/416/kklhbbk0/headphone/s/i/t/universal-wireless-yozoo-original-imafzwpjjmsqsbhv.jpeg?q=70",
+        "price": 449,
+        "rating": 4.5,
+        "review": "Be the first to review this product",
+        "name": "YOZOO Universal Wireless Bluetooth Headset  (BLUE-RED, In the Ear)"
+    },
+    {
+        "id": 8,
+        "name": "Mi Basic Wired Headset  (Blue, Black, In the Ear)",
+        "review": "76,997",
+        "rating": 4.3,
+        "price": 399,
+        "color": "Blue-Black",
+        "category": "Headphone",
+        "img": "https://rukminim1.flixcart.com/image/416/416/kbzergw0/headphone/q/j/f/ydjc01jy-mi-original-imaft7gypyfhhpjr.jpeg?q=70"
+    },
+    {
+        "id": 9,
+        "img": "https://rukminim1.flixcart.com/image/416/416/kcc9q4w0/headphone/t/f/k/235v2-fast-charging-boat-original-imafthhhgzztbfxy.jpeg?q=70",
+        "category": "Headphone",
+        "color": "red",
+        "price": 1199,
+        "rating": 4.2,
+        "review": "56,432",
+        "name": "boAt Rockerz 235v2 with ASAP charging Version 5.0 Bluetooth Headset  (Red, In the Ear)"
+    },
+    {
+        "id": 10,
+        "category": "Headphone",
+        "name": "boAt Rockerz 450 Bluetooth Headset  (Luscious Black, On the Ear)",
+        "review": "14,645",
+        "rating": 4.3,
+        "price": 1399,
+        "color": "black",
+        "img": "https://rukminim1.flixcart.com/image/416/416/k9stjm80/headphone/e/o/f/rockerz-450-boat-original-imafrgfsan7mpvdf.jpeg?q=70"
+    },
+    {
+        "id": 11,
+        "img": "https://rukminim1.flixcart.com/image/416/416/k0lbdzk0pkrrdj/headphone/r/a/t/edfigo-12-pnk-clear-sound-original-imafcx62wgfxhxag.jpeg?q=70",
+        "color": "Pink",
+        "price": 224,
+        "rating": 3.7,
+        "review": "223",
+        "name": "Edfigo 12-PNK Clear Sound Wired Headset  (Pink, In the Ear)",
+        "category": "Headphone"
+    },
+    {
+        "id": 12,
+        "category": "Headphone",
+        "name": "boAt Bassheads 103 Blue Wired Headset  (Blue, In the Ear)",
+        "review": "17,156",
+        "rating": 4.3,
+        "price": 399,
+        "color": "Blue",
+        "img": "https://rukminim1.flixcart.com/image/416/416/kj0bp8w0-0/headphone/s/o/6/bassheads-103-blue-boat-original-imafyz3wzdggy9hz.jpeg?q=70"
+    }
+]

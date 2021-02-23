@@ -1,38 +1,177 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+
+.items {
+  width: 180px;
+  border: 2px solid grey;
+  padding: 15px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.items-container {
+  width: 100%;
+  display: flex;
+  flex-flow: wrap;
+  /* justify-content: space-between; */
+}
+
+img {
+  width: 150px;
+}
+
+.product-img {
+  min-height: 100px;
+  max-width: 150px;
+}
+
+.sidepannel {
+  width: 280px;
+  background-color: darkgray;
+}
+
+.add-to-cart {
+  width: 100%;
+  /* background-color: aqua; */
+  background-color: rgb(233, 97, 37);
+  font-size: larger;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.add-to-cart-wrapper {
+  width: 150px;
+
+}
+
+.add-to-cart:hover {
+  background-color: rgb(184, 73, 25);
+
+}
+
+.btn {
+  color: rgb(43, 43, 43);
+  border: none;
+  outline: none;
+  padding: 2.5px 7.5px;
+  /* width: 150px; */
+  margin-bottom: 5px;
+  margin-left: 5px;
+  border-radius: 5px;
+  font-size: large;
+  font-family: cursive;
+}
+
+.btn:hover {
+  color: rgb(90, 11, 11);
+}
+
+.btn:focus {
+  background-color: grey;
+  color: aliceblue;
+}
+
+.side-container>h3 {
+  margin-left: 25px;
+  font-size: larger;
+  font-family: cursive;
+}
+
+.navbar {
+  background-color: indianred;
+  position: fixed;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar>h1 {
+  font-size: xx-large;
+  background-color: rgb(24, 82, 109);
+  width: 160px;
+  padding: 5px;
+  margin-left: 15px;
+  /* color:rgb(136, 114, 114); */
+  color: red;
+  border-radius: 15px;
+}
+
+.navbar>h3 {
+  margin-right: 125px;
+}
+
+.name {
+  font-size: large;
+  font-family: fantasy;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+}
+
+.Decrement {
+  width: 30px;
+  background-color: rgb(233, 97, 37);
+  font-size: larger;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+
+}
+
+.Decrement:hover {
+  background-color: rgb(174, 32, 63);
+}
+
+.Increment {
+  width: 30px;
+  background-color: rgb(233, 97, 37);
+  font-size: larger;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Increment:hover {
+  background-color: rgb(230, 27, 71);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.addItems {
+  margin-top: 15px;
+  font-size: 12px;
+  font-family: cursive;
+  font-weight: 900;
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.price {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-around;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.price>h5 {
+  font-size: medium;
 }
